@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "911704399165",
+    "project_id": "multiplayer-lti-ar-rps",
+    "storage_bucket": "multiplayer-lti-ar-rps.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:911704399165:android:5712e590b041e120303954",
+        "android_client_info": {
+          "package_name": "com.example.rps_multiplayer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "911704399165-31j5kvld5dug3lqj5gl4g4tmrhbpafj1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnuKSeqVD_gO1EFWR4kPlXDtJmfZvnduc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "911704399165-31j5kvld5dug3lqj5gl4g4tmrhbpafj1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "911704399165-u7s7oo3p5bd5ldfks0kbq457g0n4pa6n.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.rpsMultiplayer"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
